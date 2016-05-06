@@ -1,0 +1,11 @@
+c:\users\wtchen\documents\visual studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Debug\GUID_creater_WinForm.Form1.resources
+c:\users\wtchen\documents\visual studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Debug\GUID_creater_WinForm.Properties.Resources.resources
+c:\users\wtchen\documents\visual studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Debug\GUID_creater_WinForm.csproj.GenerateResource.Cache
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\bin\Debug\GUID產生器.exe.config
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\bin\Debug\GUID產生器.exe
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\bin\Debug\GUID產生器.pdb
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Debug\GUID產生器.exe
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Debug\GUID產生器.pdb
+C:\Users\wtchen\Desktop\移交資料夾\程式相關\GUID產生器\原始碼\GUID_creater_WinForm\GUID_creater_WinForm\bin\Debug\GUID產生器.exe.config
+C:\Users\wtchen\Desktop\移交資料夾\程式相關\GUID產生器\原始碼\GUID_creater_WinForm\GUID_creater_WinForm\obj\Debug\GUID產生器.exe
+C:\Users\wtchen\Desktop\移交資料夾\程式相關\GUID產生器\原始碼\GUID_creater_WinForm\GUID_creater_WinForm\obj\Debug\GUID產生器.pdb

@@ -1,0 +1,8 @@
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\bin\Release\GUID產生器.exe.config
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\bin\Release\GUID產生器.exe
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\bin\Release\GUID產生器.pdb
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Release\GUID_creater_WinForm.Form1.resources
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Release\GUID_creater_WinForm.Properties.Resources.resources
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Release\GUID_creater_WinForm.csproj.GenerateResource.Cache
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Release\GUID產生器.exe
+C:\Users\wtchen\Documents\Visual Studio 2015\Projects\GUID_creater_WinForm\GUID_creater_WinForm\obj\Release\GUID產生器.pdb
